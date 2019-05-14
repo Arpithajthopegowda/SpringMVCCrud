@@ -1,5 +1,6 @@
 package com.javatpoint.beans;  
   
+//Employee POJO classes
 public class Emp {  
 private int id;  
 private String name;  
